@@ -1,0 +1,37 @@
+body    {
+    background-color:   whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+table {
+  border-collapse: collapse;
+  width: auto;
+}
+
+th, td {
+  border: none;
+  padding: 8px 24px;
+  text-align: left;
+}
+th {
+  font-weight: normal; 
+  }
+h1  {
+    font-family: fantasy;
+    font-size: 48px;
+    color: black;
+    text-align: center;
+  }
+h2  {
+    font-family: sans-serif;
+    font-size: 36px;
+    color: black;
+    text-align: center;
+  }
+h3  {
+    font-family: sans-serif;
+    font-size: 30px;
+    color: black;
+}
+p   {font-size: 18px;
+     }
+     
